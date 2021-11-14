@@ -1,0 +1,1 @@
+web: gunicorn diango_poll_application.wsgi --log-file -
